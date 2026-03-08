@@ -4,7 +4,7 @@
 - Juan Carlos Agustin
 - Mahsa Beigi
 - Mark Soosaipillai
-- Joy Mwathi. Student ID: 145154191
+- Joy Mwathi.
 ---
 # AI IN HEALTHCARE
 ## Project Summary
