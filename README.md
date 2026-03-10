@@ -15,7 +15,7 @@ Our group presentation on **AI in Healthcare** is available [here](https://www.y
 
 ---
 # PEER ENGAGEMENT
-### Group 01 Question
+### Question
 
 What do you think is the biggest challenge of using AI in healthcare: accuracy, privacy or trust?
 
