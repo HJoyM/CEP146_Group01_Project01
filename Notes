@@ -1,0 +1,22 @@
+Mark`s Notes
+AI analyzes genetic and medical data to find disease-causing patterns. Uses large databases such as Drugbank and PubChem.
+It helps identify targets for diseases such as Alzheimer's disease, Cancer, and Parkinson's disease
+AI can analyze millions of molecules quickly.
+It predicts how molecules will interact with disease targets.
+This reduces the time needed for laboratory experiments.
+During the COVID-19 pandemic, AI helped researchers screen potential antiviral drugs much faster than traditional methods.
+AI analyzes genomics data to identify disease-related genes and proteins.
+A genome is the complete set of DNA (deoxyribonucleic acid) within an organism.
+Machine learning models identify gene–disease relationships and biomarkers.
+Biomarkers (short for biological markers) are objective, measurable indicators of a biological state or condition.
+Deep learning models can analyze complex biological datasets to predict disease outcomes.
+AI identifies drug toxicity and adverse reactions early.
+Optimizes clinical trial design, patient recruitment, and data analysis.
+Enables real-time monitoring of trial data.
+AI models generate new drug molecules.
+AI finds new uses for existing drugs.
+Main Issues:
+Lack of high-quality training data.
+Data from multiple sources can be difficult to integrate.
+Hard for researchers to interpret how decisions are made.
+Data privacy, legal challenges and job displacement. 
