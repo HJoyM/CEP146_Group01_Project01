@@ -11,7 +11,7 @@
 
 This project explores how artificial intelligence (AI) is transforming healthcare. The presentation highlights different AI technologies currently being developed to improve medical diagnosis, research, healthcare decision-making and treatment.
 
-Our group presentation on **AI in Healthcare** [here](https://www.youtube.com/watch?v=y3fZmq8xRM8)
+Our group presentation on **AI in Healthcare** is available [here](https://www.youtube.com/watch?v=y3fZmq8xRM8)
 
 ---
 # PEER ENGAGEMENT
